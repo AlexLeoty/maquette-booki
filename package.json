@@ -1,0 +1,11 @@
+{
+  "name": "maquette-booki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./CSS/styles.scss:./CSS/index.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
